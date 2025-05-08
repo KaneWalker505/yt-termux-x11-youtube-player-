@@ -24,6 +24,8 @@ These will auto install/upgrade when installing yt (termux x11 youtube player)
 
 #install 
 
+pkg install wget
+
 wget https://github.com/KaneWalker505/yt-termux-x11-youtube-player-/releases/download/Release/yt_1.0_aarch64.deb
 
 pkg install ./yt_1.0_aarch64.deb

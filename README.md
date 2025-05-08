@@ -42,7 +42,7 @@ Program will ask or request a youtube URL, Upon entering URL to youtube video th
 
 After installing the yt_1.0_aarch64.deb
 
-Just type```
+Just type
 
  yt 
 

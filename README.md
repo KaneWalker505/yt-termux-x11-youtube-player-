@@ -34,7 +34,10 @@ pkg install ./yt_1.0_aarch64.deb
 
 #Usage
 
-yt
+yt  - watch a youtube video
+
+video  - watch last watched video
+
 
 Program will ask or request a youtube URL, Upon entering URL to youtube video the program will download the video to a temporary file. The program then works its magic with x11 to cast and play the downloaded youtube video instantly to x11 app. This way we can play and watch any youtube video we want without any annoying ads. No Ads when watching youtube this way also the video app itself for playing the youtube videos are way less demanding both for networking data and memory. So watching youtube this way will also save on mobile data / wifi bandwidth and overall system memory space. As there is no video cache or ads.
 

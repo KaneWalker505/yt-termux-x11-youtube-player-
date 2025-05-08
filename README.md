@@ -49,7 +49,10 @@ Just type
  yt 
 
 
+You can also type 
 
+ video
 
+At anytime in termux after watching a video via yt to rewatch it again. ONLY valid for last video watched.
 
 

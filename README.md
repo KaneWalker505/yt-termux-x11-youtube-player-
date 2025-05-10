@@ -59,3 +59,11 @@ You can also type
 At anytime in termux after watching a video via yt to rewatch it again. ONLY valid for last video watched.
 
 
+##NOT JUST YOUTUBE##
+
+yt (termux x11 youtube player) has support for thousands of sites
+
+https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md?plain=1
+
+sense yt uses yt-dlp system library it supports sites and videos other than youtube
+

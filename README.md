@@ -32,6 +32,8 @@ wget https://github.com/KaneWalker505/yt-termux-x11-youtube-player-/releases/dow
 
 pkg install ./yt_1.0_aarch64.deb
 
+cp ../usr/bin/yt2mp4.py $home/yt2mp4.py
+
 
 
 #Usage

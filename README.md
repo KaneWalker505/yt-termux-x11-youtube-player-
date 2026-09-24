@@ -6,6 +6,7 @@ yt (termux x11 youtube player)
 
 #Requirments:
 (X11 Android App)
+https://github.com/termux/termux-x11/releases/
 
 termux-x11  - Allows sending to x11 server
 
